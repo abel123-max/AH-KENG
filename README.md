@@ -15,14 +15,10 @@
 *Développer une interface utilisateur dynamique  
 *Créer une base de donnée  
 *Développer les composants d'accès  
-*12 mois de formation
-*11 aprrenn
+*12 mois de formation  
+*11 aprennnat
 
 
 
 
-Ajouter ensuite une liste à puce avec les informations : 
-Nom de la formation 
-Les 3 grandes compétences du référenciel
-Durée de la formation 
-Nombre d'apprenants dans la formation
+
